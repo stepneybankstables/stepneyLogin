@@ -1,0 +1,27 @@
+{
+  "name": "stepneylogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepneybankstables/stepneyLogin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepneybankstables/stepneyLogin/issues"
+  },
+  "homepage": "https://github.com/stepneybankstables/stepneyLogin#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "mongoose": "^4.10.2"
+  }
+}
